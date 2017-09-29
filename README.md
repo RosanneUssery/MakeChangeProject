@@ -1,5 +1,7 @@
 # Make Change Project
 
+## By Rosanne Ussery
+
 First week project for Skill Distillery.
 Demonstrates:
 * Basic Java language skills.
